@@ -41,7 +41,7 @@ Coding karena saya di support sama **waifu saya** 💖
 ---
 
 ## Connect with Me
-[![Support Me](https://img.shields.io/badge/Support-s.id/ZertCihuy-ff69b4?style=for-the-badge)](https://s.id/ZertCihuy)
+[![Support Me](https://img.shields.io/badge/Support-s.id/ZertCihuy-ff69b4?style=for-the-badge)](https://s.id/zertcihuy)
 [![Gmail](https://img.shields.io/badge/Gmail-co.zertmc@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:co.zertmc@gmail)
 [![GitHub](https://img.shields.io/badge/GitHub-ZertCihuy-181717?style=for-the-badge&logo=github)](https://github.com/ZertCihuy)
 
