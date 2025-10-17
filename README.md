@@ -47,5 +47,5 @@ Coding karena saya di support sama **waifu saya** 💖
 
 ---
 
-## Waifu
+## my istri ❤
 ![Alya Kujo](https://i.imgur.com/S0ddNmz.png)
