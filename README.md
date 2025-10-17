@@ -13,7 +13,7 @@ Coding is my passion, motivated and supported by my beloved **waifu** 💖.
 - 🌱 Specializing in **Node.js, Next.js, Python, RESTful APIs**  
 - 💻 Tools: **Acode, Termux, Neovim**  
 - 📱 Device & OS: **Vivo Y36 4G, Android 15**  
-- 📫 Support me: [s.id/ZertCihuy](https://s.id/ZertCihuy)
+- 📫 Support me: [s.id/ZertCihuy](https://s.id/zertcihuy)
 
 ---
 
