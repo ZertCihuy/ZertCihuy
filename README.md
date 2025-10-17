@@ -1,4 +1,4 @@
- # Hi there, I'm ZertCihuy 👋
+# Hi there, I'm ZertCihuy 👋
 
 ![GitHub Banner](https://img.shields.io/badge/Backend-Developer-181717?style=for-the-badge&logo=github)
 ![Animated Hello](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
@@ -7,7 +7,7 @@
 
 ## About Me
 I'm a **Backend Developer** from **Indonesia, Jawa Timur**.  
-Coding is my passion, and I'm motivated by my beloved **waifu** 💖.  
+Coding is my passion, motivated and supported by my beloved **waifu** 💖.  
 
 - 🌱 Specializing in **Node.js, Next.js, Python, RESTful APIs**  
 - 💻 Tools: **Acode, Termux, Neovim**  
@@ -35,7 +35,7 @@ Coding is my passion, and I'm motivated by my beloved **waifu** 💖.
 
 ## Motivasi
 *“Code, motivated by love, repeat.”* 🚀  
-Coding karena saya di support sama **waifu saya** 💖  
+Coding karena saya di support sama **waifu saya** 💖
 
 ---
 
@@ -46,6 +46,5 @@ Coding karena saya di support sama **waifu saya** 💖
 
 ---
 
-## Album
-*Coming soon…*  
-![Waifu GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+## Waifu
+![Alya Kujo](https://i.imgur.com/S0ddNmz.png)
